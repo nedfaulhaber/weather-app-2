@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+h1 {
+  color: red;
+}
+
+.explosion {
+  background: url('../img/explosion.gif') no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  display: none;
+}
